@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @valdermartje
+- 👋 Hi, I’m Valdemar Vreeman
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning VueJs
 - 📫 Reach me on <a href="https://nl.linkedin.com/in/valdemar-v-0b9233184">LinkedIn</a>
